@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.homeContainer{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchText{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.searchbtn{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
